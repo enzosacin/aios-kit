@@ -1,20 +1,21 @@
-> 🟡 DEMO — `/onboard` replaces this file with yours.
+# Sobre Enzo Sacin Moro
 
-# About Ana Vidal
+**Nombre:** Enzo Sacin Moro
+**Cargo:** Gerente General
+**Empresa:** GLP Amazónico S.A.C. (marca comercial: Amazon Gas)
+**Ubicación:** Iquitos, Perú
 
-**Name:** Ana Vidal
-**Role:** Founder and Director
-**Company:** Meridian Research
-**Location:** Remote — team spread across three time zones
+## Qué hago
 
-## What I Do
+Dirijo GLP Amazónico, empresa de transporte multimodal de GLP a granel. Operamos un puerto en
+Iquitos, una planta envasadora y la distribución en la ciudad.
 
-I run Meridian end to end: sales, delivery quality, hiring, and the finances. On any given
-week I'm the one closing new studies, reviewing Iris's and Tomas's drafts before they go to a
-client, and deciding whether we say yes to a project or pass on it.
+Recibo mucha información de compras, precios, contabilidad y temas regulatorios, y las
+decisiones finales pasan por mí.
 
-## #1 Priority
+## Cómo trabajar conmigo
 
-New clients and collections. A study that isn't sold doesn't get staffed, and a study that
-isn't paid for might as well not have happened. Everything else — tooling, process, hiring —
-is secondary to keeping both of those moving.
+- No asumas que sé de agentes de IA ni de cloud. Explícame claro y paso a paso, sin jerga,
+  antes de pedirme que autorice algo.
+- Si tienes una duda, pregúntame. No inventes.
+- No me gusta Microsoft Teams ni su entorno. No me propongas soluciones basadas en Teams.

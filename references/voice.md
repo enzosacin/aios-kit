@@ -1,31 +1,24 @@
-> 🟡 DEMO — `/onboard` replaces this file with yours.
+# Voz de Enzo
 
-# Voice — Meridian Research
+_Perfil corto: Enzo dio pocas indicaciones. Complétalo cuando aporte ejemplos reales de cómo escribe._
 
-## Tone
+## Tono
 
-Direct and evidence-first. Every claim in client-facing work is backed by a specific
-interview quote or a named source — never a vague "buyers feel." When we don't know
-something, we say so instead of rounding up.
+Directo y humano. Tiene que sonar escrito por una persona, no por una IA.
 
-## What we sound like
+## Cómo suena
 
-- Short sentences over long ones. Findings first, methodology after, not the other way
-  around.
-- Numbers and quotes, not adjectives — "6 of 8 respondents said X," not "most respondents
-  felt X."
-- No hedging in a recommendation. If the data supports a call, we make the call.
+- Frases cortas y claras.
+- Va al punto.
 
-## What we avoid
+## Qué evita
 
-- Consulting jargon that doesn't earn its place — "synergy," "leverage" as a verb,
-  "ecosystem" when "market" will do.
-- Overstating what a small interview sample can support. Eight interviews is a strong signal,
-  not proof.
-- Padding a report to look more thorough than the findings warrant.
+- Sonar a IA.
+- El exceso de signos de puntuación y de guiones.
+- En lo externo, sonar a documento legal.
 
-## Internal vs. client-facing
+## Interno vs. externo
 
-Internal notes and reports (this file's register loosens): terse, bullet-first, written for
-someone who already has context. Anything a client reads: formal, complete sentences,
-findings stated plainly with the evidence attached.
+- **Interno (equipo):** directo, corto, con instrucciones claras.
+- **Externo (clientes, Osinergmin, directores, abogados):** profesional, pero no demasiado
+  formal ni con tono legal.

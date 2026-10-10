@@ -1,30 +1,25 @@
-> 🟡 DEMO — `/onboard` replaces this file with yours.
+# Equipo
 
-# Team
+_Última actualización: 2026-10-10._
 
-_Last updated: 2026-08-01._
+## Equipo interno
 
-Four people, fully remote. Communication happens over a shared chat channel; task and client
-status lives in the project tracker (see `context/work.md`).
+| Nombre | Área | Involúcralo cuando… |
+|---|---|---|
+| Ing. Máximo Flores | Técnica y operaciones | Planta, puerto, logística, mantenimiento, tanques (incluida la inspección API 510). |
+| Renata Jordán | Tecnología | Sistemas, herramientas, automatizaciones, temas de TI. |
+| Jherson Rivera | Análisis, ventas y regulatorio | Análisis de datos y ventas, y todo lo relacionado con Osinergmin. |
+| Willy Rivera | Administración | Temas administrativos. |
+| Susy Flores | Contabilidad | Cifras contables y todo lo que está en Concar. |
+| Paul Rivera | Comercial | Temas comerciales. **En evaluación:** Enzo cree que ya cumplió su ciclo en la empresa. No lo des por salido ni lo menciones fuera sin que Enzo lo confirme. |
 
-## Key People
+## Fuera de la empresa
 
-| Name | Role | Loop them in when… |
-|------|------|----------------------|
-| Ana Vidal | Founder, Director | Any new client conversation, pricing exceptions, anything client-facing before it goes out. |
-| Iris Okonjo | Senior Analyst | Interview guide design, synthesis on a landscape study, reviewing a junior analyst's draft. |
-| Tomas Reiner | Analyst | Running interviews, first-pass transcription and coding, scheduling with respondents. |
-| Priya Raman | Operations | Invoicing, contracts, scheduling logistics, anything about a payment that hasn't landed. |
+No están en planilla, pero Enzo coordina con ellos:
 
-## Who Signs
-
-**Ana signs every proposal and every contract.** Being the lead analyst on a project never
-makes someone the signer — that's a separate role from who's accountable for the commercial
-relationship.
-
-## Pain Points
-
-- No written SOP for the win/loss retainer yet — Tomas has to ask Iris the same three
-  questions on every new client.
-- Everyone's remote across three time zones, so handoffs between interview and synthesis
-  sometimes sit for a day longer than they should.
+| Nombre | Rol | Involúcralo cuando… |
+|---|---|---|
+| José Antonio Barrera | Abogado externo | Temas legales y regulatorios. |
+| Coqui Aguayo | Abogado | Temas legales, societarios y de otra índole. |
+| Álvaro Rey | Director principal | Decisiones que se coordinan con el directorio. |
+| Germán Kruger | Director principal | Decisiones que se coordinan con el directorio. |

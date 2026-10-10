@@ -1,13 +1,1 @@
-> 🟡 DEMO — `/onboard` replaces this file with yours.
-
-# Decision Log
-
-Append-only. Format: `[YYYY-MM-DD] DECISION: … | REASONING: … | CONTEXT: …`
-
----
-
-[2026-07-14] DECISION: Raise the landscape-study fixed fee by 20% for new clients | REASONING: The last three studies took longer to synthesize than scoped because respondent scheduling kept slipping, and the old fee didn't cover the extra analyst hours | CONTEXT: Priya flagged that the last two invoices didn't cover Iris's actual hours logged against the project.
-
-[2026-07-29] DECISION: Stop taking single-interview "quick read" engagements | REASONING: A handful of one-off interview requests from very early-stage startups ate a full week of scheduling and synthesis for a fee that didn't clear the cost of Tomas's time, and they weren't turning into repeat clients | CONTEXT: Ana reviewed the last two quarters of closed projects and found every quick-read engagement was a net loss once analyst hours were counted.
-
-[2026-08-11] DECISION: Every win/loss interview gets recorded and transcribed before synthesis starts, no exceptions | REASONING: Iris caught a synthesis draft that mischaracterized a lost deal because Tomas worked from handwritten notes instead of the recording, and it nearly went to the client that way | CONTEXT: Process review after a near-miss on a mid-quarter client deliverable; Priya now checks for a transcript link before a project is marked ready for review.
+[2026-10-10] DECISION: workspace inicializado con /onboard | REASONING: se reemplazó el contenido del demo por el contexto real del operador | CONTEXT: el operador dijo que el agente nunca debe: "1. Enviar cualquier comunicación hacia el exterior sin mi autorización (como correos electrónicos, mensajes de texto o WhatsApp). 2. Entrar a mis cuentas que necesiten usuario y contraseña, salvo que yo lo autorice. 3. Inventar. Si tiene alguna duda, en vez de inventar, debe preguntarme. 4. Asumir nunca que soy experto en agentes de IA y cloud."
